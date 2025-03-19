@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="da">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu & Bestilling - Star Pizza</title>
+    <link href="styles.css" rel="stylesheet" type="text/css"/>
+    <script src="js.js" defer></script>
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Forside</a></li>
+            <li><a href="om-os.html">Om Os</a></li>
+            <li><a href="anmeldelser.html">Anmeldelser</a></li>
+        </ul>
+    </nav>
+
+    <section class="slide-section">
+        <h1 class="bubbly-text"></h1>
+    </section>
+
+    <section id="menu">
+        <h2 id="menuOverskrift"></h2>
+        <div class="grid"></div> 
+    </section>
+
+    <section id="bestillings-container">
+        <div class="side-images left-side">
+            <img id="left-image" src="Images/Bestilling/pizza1.webp" alt="Venstre billede">
+            <img id="left-image" src="Images/Bestilling/pizza2.webp" alt="Venstre billede">
+            <img id="left-image" src="Images/Bestilling/Fritter.webp" alt="Venstre billede">
+        </div>
+    
+        <div id="bestilling">
+            <h2 id="bestilOverskrift"></h2>
+            <form id="bestillingsForm">
+                <label for="navn">Navn:</label>
+                <input type="text" id="navn" name="navn" required>
+        
+                <label for="telefon">Telefon:</label>
+                <input type="tel" id="telefon" name="telefon" required>
+        
+                <h3 id="retterOverskrift"></h3>
+                <div id="mad-valg">
+                    <div id="pizza-kolonne">
+                        <h3>Pizza</h3>
+                    </div>
+                    <div id="pasta-kolonne">
+                        <h3>Pasta</h3>
+                    </div>
+                    <div id="ovrigt-kolonne">
+                        <h3>Øvrigt</h3>
+                    </div>
+                </div>
+        
+                <button type="submit">Bestil Nu</button>
+            </form>
+        </div>
+    
+        <div class="side-images right-side">
+            <img id="right-image" src="Images/Bestilling/Cola.webp" alt="Højre billede">
+            <img id="right-image" src="Images/Bestilling/hvidløgsDonut.webp" alt="Højre billede">
+            <img id="right-image" src="Images/Bestilling/LasagNut.webp" alt="Højre billede">
+        </div>
+    </section>
+    
+    <div id="image-modal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="full-size-image">
+    </div>
+    
+    
+</body>
+
+</html>

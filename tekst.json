@@ -1,0 +1,28 @@
+{
+    "forside": {
+      "overskrift": "Star Pizza",
+      "info": "Hos Star Pizza handler alt om den perfekte kombination af friskbagte pizzaer og uimodståelige donuts – leveret direkte til din dør! Vores dedikerede bud bringer ikke blot dine yndlingsretter, men også smil og god stemning med på turen. ",
+      "levering": "Kære Kunde! Vi kan levere mad til din frokostpause, hvis du bestiller mindst 2 timer inden levering. Gratis levering hver dag ved køb for mindst kr. 110,-.",
+      "tilbudsOverskrift": "Dagens Tilbud",
+      "tilbud": "Få 2 pizzaer, af eget valgt, og en Fanta & Frosting for kun 149 kr! Kun i dag! ",
+      "åbningstider": ""
+    },
+    "omOs": {
+      "overskrift": "Om Star Pizza",
+      "beskrivelse1": "Hos PizzaDonut er vi ikke helt almindelige pizzabagere - vi er nemlig også donut-entusiaster på et mission om at gøre verden både sødere og mere osteagtig! Vores historie begyndte en dag, da vores grundlægger, Donato 'Donut' Pepperoni, ved et lykkeligt uheld tabte sin donut direkte på en varm pizza. Resultatet; Ren magi",
+      "beskrivelse2": "Siden da har vi kombineret det bedste fra to verdener og skabt de vildeste pizza-donut-kreationer, der både overrasker og begejstrer. Vi tror på, at pepperoni hører hjemme på en donut, og at glasur kan være pizzatopping - fordi hvorfor ikke? På PizzaDonut handler det om at bryde reglerne med et smil, lidt ekstra ost og rigeligt med drys. Vi byder dig indenfor i vores skøre univers, hvor det eneste krav er en god appetit og en forkærlighed for sjove smagsoplevelser.",
+      "beskrivelse3": " Velkommen til en verden, hvor pizza og donuts lever lykkeligt til deres dages ende!"
+    },
+    "anmeldelser": {
+      "overskrift": "Kundeanmeldelser",
+      "anmeldelsesFormularOverskrift": "Skriv din anmeldelse her",
+      "submitKnap": "Indsend Anmeldelse"
+    },
+    "menuBestilling": {
+    "menuOverskrift": "Vores Menu",
+    "bestilOverskrift": "Bestil Din Mad",
+    "retterOverskrift": "Vælg dine retter:"
+    }
+
+  }
+  

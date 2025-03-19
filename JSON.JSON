@@ -1,0 +1,22 @@
+{
+    "pizza": [
+        { "name": "Donugherita", "ingredients": "Tomat, Ost, Glasur-dryp", "price": "85 kr." },
+        { "name": "Choco-Pepperoni", "ingredients": "Tomat, Ost, Pepperoni, Chokolade-stykker", "price": "95 kr." },
+        { "name": "Hawaii Madness", "ingredients": "Tomat, Ost, Ananas, Donut-krummer", "price": "100 kr." },
+        { "name": "Sugar Milano", "ingredients": "Tomat, Ost, Skinke, Svampe, Sukkerstrø", "price": "95 kr." },
+        { "name": "Quattro Donutti", "ingredients": "Tomat, Mozzarella, Gorgonzola, Chokolade-donut, Karamel-dryp", "price": "105 kr." }
+    ],
+    "pasta": [
+        { "name": "Carbonara Deluxe", "ingredients": "Æg, Parmesan, Bacon, Mini-donuts", "price": "90 kr." },
+        { "name": "Bolo-nut", "ingredients": "Tomatsauce, Hakket kød, Kanel-donuts", "price": "95 kr." },
+        { "name": "Pesto Drizzle", "ingredients": "Basilikum, Olivenolie, Parmesan, Vanilje-donut-støv", "price": "100 kr." },
+        { "name": "LasagNut", "ingredients": "Bolognese, Bechamel, Ost, Jordbærsyltetøj", "price": "110 kr." }
+    ],
+    "øvrigt": [
+        { "name": "Fritter med Donut-dip", "ingredients": "Salt, Ketchup, Flydende Donutglasur", "price": "45 kr." },
+        { "name": "Hvidløgsdonut", "ingredients": "Hvidløg, Smør, Donut-brød", "price": "35 kr." },
+        { "name": "Cola med Donut-skum", "ingredients": "50cl, Donut-smag", "price": "30 kr." },
+        { "name": "Fanta & Frosting", "ingredients": "50cl, Appelsinsmag, Vaniljefrosting-kant", "price": "30 kr." },
+        { "name": "Kildevand med Sukkerkant", "ingredients": "50cl, Donut-glaseret låg", "price": "25 kr." }
+    ]
+}

@@ -89,7 +89,7 @@ if (bestillingsForm) {
 //Parser
 async function fetchMenu() { 
     try {
-        const response = await fetch("json.json"); 
+        const response = await fetch("JSON.JSON"); 
         if (!response.ok) throw new Error("Kunne ikke hente menuen");
 
         const menuData = await response.json(); 
